@@ -1,0 +1,33 @@
+body{
+    background-color: salmon;
+}
+p{
+    font-style:oblique;
+}
+
+.container{
+    margin-top: 125px;
+    display: flex;
+    background-color:lightblue;
+}
+
+.text{
+    margin-top: 50px;
+    font-size: 1.45em;
+    color: white;
+    width: 45%;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.image-container{
+    margin-top: 10px;
+    width: 45%;
+}
+
+.imagen{
+    width: 80%;
+    height: auto;
+}
+
+
